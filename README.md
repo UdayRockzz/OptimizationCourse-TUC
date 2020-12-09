@@ -7,6 +7,7 @@ This repo contains the exercise solutions of the [Optimization Course](https://w
 - [Matlab Optimization Toolbox](https://www.mathworks.com/products/optimization.html)
 - [GraphViz Matlab interface](https://github.com/graphviz4matlab/graphviz4matlab)
 
+
 ## Remark
 
 The m files that are ending with '_draft.m' conventions indicate that they aren't solved yet.
